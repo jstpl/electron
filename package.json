@@ -1,7 +1,6 @@
 {
   "name": "electron-example",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {},
   "main": "src/electron/main.js",
   "scripts": {
